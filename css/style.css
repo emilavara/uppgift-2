@@ -61,8 +61,9 @@ body {
 
  /* phones */
  @media only screen and (max-width: 768px) {
+	
 	body {
-		background: #bbb;
+		background: rgba(255, 0, 0, 0.25);
 	}
 	
 	.box-content {
@@ -81,8 +82,9 @@ body {
 
  /* tablets */
  @media only screen and (max-width: 960px) and (min-width: 768px) {
+	
 	body {
-		background: #ccc;
+		background: rgba(0, 0, 255, 0.25);
 	}
 
 	.nested-footer {
