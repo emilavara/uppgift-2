@@ -4,6 +4,7 @@ body {
 	background: url(../img/12_col.gif) center top repeat-y;
 	background-size: 90%; 
 	*/
+	background: rgba(0, 255, 0, 0.25);
 }
 
 .wrapper {
